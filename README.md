@@ -30,7 +30,7 @@ Ardından klasik kurulumu tamamladıktan sonra Node.js command prompt programın
 
 Yeni bir React projesine başlamak için en kolay yol, bir başlangıç kiti kullanmaktır.
 
-React ekibi tarafından önerilen çeşitli başlangıç kitleri bulunmakta; Create React App, Next.js, Gatsby, nwb, razzle, Neutrino. React projesi başlatmak için resmi olarak desteklenen Create React App’ı detaylı açıklayalım.
+React ekibi tarafından önerilen çeşitli başlangıç kitleri bulunmakta; Create React App, Next.js, Gatsby, nwb, razzle, Neutrino. React projesi başlatmak için resmi olarak desteklenen Create React App’ı detaylı açıklayalım
 
 Create React App
 Create React App, yeni bir React single page application’a başlamanın en iyi yoludur. Geliştirme ortamınızı, en yeni JavaScript özelliklerini kullanabilmenizi, güzel bir geliştirici deneyimi yaşamanızı ve uygulamanızı üretim için optimize etmenizi sağlar. NodeJS 6 veya daha üst sürümünün bilgisayarınızda kurulu olması gerekir (Sunucuda gerekli değildir).
